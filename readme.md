@@ -4,8 +4,13 @@ This repository consists of my solutions to coding interview problems on [AlgoEx
 
 Solutions to problems on Systems Expert will also be posted soon.
 
+---
+
+![Java CI with Maven](https://github.com/Manish-Giri/AlgoExpert.io/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 I have also set up Continuous Integration using [Github Actions](https://github.com/features/actions), which will run all the JUnit Tests for all coding problems in the codebase, on every push to `master`. View all past jobs [here](https://github.com/Manish-Giri/AlgoExpert.io/actions?query=workflow%3A%22Java+CI+with+Maven%22).
 
+---
 ### Difficulty Levels solved
 
  
