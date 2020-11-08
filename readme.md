@@ -31,7 +31,8 @@ I have also set up Continuous Integration using [Github Actions](https://github.
  |4| Find Closest Value in BST | [Java](./AlgoExpert/src/main/java/net/manishgiri/easy/findclosestvalueinBST/solution1/Program.java) | [Java](./AlgoExpert/src/test/java/net/manishgiri/easy/findclosestvalueinBST/solution1/ProgramTest.java) | BST | :white_circle: :star: 
  |5| Find Three Largest Numbers | [Java](./AlgoExpert/src/main/java/net/manishgiri/easy/findthreelargestnumbers/solution1/Program.java) | [Java](./AlgoExpert/src/test/java/net/manishgiri/easy/findthreelargestnumbers/solution1/ProgramTest.java) | Arrays | :white_circle: 
 |6| Bubble Sort | [Java](./AlgoExpert/src/main/java/net/manishgiri/easy/bubblesort/optimized/Program.java) | [Java](./AlgoExpert/src/test/java/net/manishgiri/easy/bubblesort/optimized/ProgramTest.java) | Sorting | :white_circle: 
- 
+ |7| Node Depths | [Java](./AlgoExpert/src/main/java/net/manishgiri/easy/nodedepths/solution2/Program.java) | [Java](./AlgoExpert/src/test/java/net/manishgiri/easy/nodedepths/solution3/ProgramTest.java) | Binary Trees | :white_circle: 
+  
  
  
  ###### Developed with :heart: by Manish Giri &copy; 2020
