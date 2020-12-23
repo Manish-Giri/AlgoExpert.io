@@ -10,8 +10,8 @@ class Program {
 
     static List<List<Integer>> getPermutations(List<Integer> array) {
         // Write your code here.
-        var perms = new ArrayList<List<Integer>>();
-        var perm = new ArrayList<Integer>();
+        List<List<Integer>> perms = new ArrayList<>();
+        List<Integer> perm = new ArrayList<>();
         helper(array, perm, perms);
         return perms;
     }
