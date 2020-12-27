@@ -13,7 +13,7 @@ class ProgramTest {
 
     @Test
     void powerset() {
-        List<List<Integer>> output = Program.powerset(new ArrayList<Integer>(Arrays.asList(1, 2, 3)));
+        var output = Program.powerset(new ArrayList<Integer>(Arrays.asList(1, 2, 3)));
         assertEquals(output.size(), 8);
         assertTrue(contains(output, new int[] {}));
         assertTrue(contains(output, new int[] {1}));
@@ -26,7 +26,7 @@ class ProgramTest {
     }
 
     private boolean contains(List<List<Integer>> arr1, int[] arr2) {
-        for (List<Integer> subArr : arr1) {
+        for (var subArr : arr1) {
             Collections.sort(subArr);
             if (compare(subArr, arr2)) {
                 return true;
