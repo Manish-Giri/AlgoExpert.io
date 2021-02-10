@@ -34,6 +34,8 @@ I have also set up Continuous Integration using [Github Actions](https://github.
  |7| Node Depths | [Java](./AlgoExpert/src/main/java/net/manishgiri/easy/nodedepths/solution2/Program.java) | [Java](./AlgoExpert/src/test/java/net/manishgiri/easy/nodedepths/solution3/ProgramTest.java) | Binary Trees | :white_circle: 
  |8| Binary Search | [Java](./AlgoExpert/src/main/java/net/manishgiri/categories/searching/easy/binarysearch/recursive/Program.java) | [Java](./AlgoExpert/src/test/java/net/manishgiri/categories/searching/easy/binarysearch/recursive/ProgramTest.java) | Searching | :white_circle: 
  |9| Depth First Search | [Java](./AlgoExpert/src/main/java/net/manishgiri/easy/depthfirstsearch/Program.java) | [Java](./AlgoExpert/src/test/java/net/manishgiri/easy/depthfirstsearch/ProgramTest.java) | Graphs | :white_circle: 
+ |10| Nth Fibonacci | [Java](./AlgoExpert/src/main/java/net/manishgiri/easy/nthfibonacci/dp/memoization/Program.java) | [Java]() | Recursion | :white_circle: :star:
+
 
   
  
