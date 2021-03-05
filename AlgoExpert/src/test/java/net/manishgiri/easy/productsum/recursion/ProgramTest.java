@@ -1,5 +1,6 @@
-package net.manishgiri.easy.productsum;
+package net.manishgiri.easy.productsum.recursion;
 
+import net.manishgiri.easy.productsum.recursion.Program;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
