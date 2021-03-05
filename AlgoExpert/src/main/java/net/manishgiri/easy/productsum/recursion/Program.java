@@ -1,4 +1,4 @@
-package net.manishgiri.easy.productsum;
+package net.manishgiri.easy.productsum.recursion;
 
 import java.util.*;
 
