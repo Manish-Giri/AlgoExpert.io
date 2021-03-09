@@ -35,7 +35,7 @@ I have also set up Continuous Integration using [Github Actions](https://github.
  |8| Binary Search | [Java](./AlgoExpert/src/main/java/net/manishgiri/categories/searching/easy/binarysearch/recursive/Program.java) | [Java](./AlgoExpert/src/test/java/net/manishgiri/categories/searching/easy/binarysearch/recursive/ProgramTest.java) | Searching | :white_circle: 
  |9| Depth First Search | [Java](./AlgoExpert/src/main/java/net/manishgiri/easy/depthfirstsearch/Program.java) | [Java](./AlgoExpert/src/test/java/net/manishgiri/easy/depthfirstsearch/ProgramTest.java) | Graphs | :white_circle: 
  |10| Nth Fibonacci | [Java](./AlgoExpert/src/main/java/net/manishgiri/easy/nthfibonacci/dp/memoization/Program.java) | [Java]() | Recursion | :white_circle: :star:
-
+ |11| Product Sum | [Java](./AlgoExpert/src/main/java/net/manishgiri/easy/productsum/recursion/Program.java) | [Java](./AlgoExpert/src/test/java/net/manishgiri/easy/productsum/recursion/ProgramTest.java) | Recursion | :white_circle: :star:
 
   
  
