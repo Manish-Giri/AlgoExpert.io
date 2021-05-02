@@ -1,16 +1,14 @@
-package main.java.net.manishgiri.categories.strings.ceasarcipherencryptor.solution1;
+package java.net.manishgiri.categories.strings.ceasarcipherencryptor.solution1;
 
 /**
- * EDGE CASE - for large keys, example - 52
- * modding by 26 ensures key is always in the range 0 to 25 (26 alphabets)
- * https://www.algoexpert.io/questions/Caesar%20Cipher%20Encryptor
+ * EDGE CASE - for large keys, example - 52, directly adding key will create a number > 122
+ * modding by 26 ensures key is always in the range 0 to 25, => 97(a) to 122(z)
  */
 class Program {
 
     static String caesarCypherEncryptor(String str, int key) {
         // Write your code here.
         char[] letters = str.toCharArray();
-        // to ensure key remains in a(97) to z(122) range
         key = key % 26;
         for (int i = 0; i < letters.length; i++) {
             int pos = letters[i] + key;
