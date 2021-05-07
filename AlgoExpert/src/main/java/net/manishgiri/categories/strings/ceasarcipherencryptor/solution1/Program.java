@@ -1,4 +1,4 @@
-package java.net.manishgiri.categories.strings.ceasarcipherencryptor.solution1;
+package net.manishgiri.categories.strings.ceasarcipherencryptor.solution1;
 
 /**
  * EDGE CASE - for large keys, example - 52, directly adding key will create a number > 122
